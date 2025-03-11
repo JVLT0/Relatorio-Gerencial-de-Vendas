@@ -3,8 +3,8 @@ Este projeto foi desenvolvido como parte do desafio Power BI Analyst da DIO. O o
 
 ## 📌 Visão Geral do Dashboard
 
-![Sales Report](/Sales%20Report.png)  
-![Prodt Report](/Report%20de%20Prodt.png)
+![Sales Report](/Images/Sales%20Report.png)  
+![Prodt Report](/Images/Report%20de%20Prodt.png)
 
 ## 🔍 Objetivo da Análise
 Analisar o desempenho de vendas, descontos e lucro por país, segmento e produtos, permitindo uma visão estratégica para tomada de decisões.
